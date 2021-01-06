@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "admin-lte": "2.3.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "font-awesome": "^4.7.0",
     "ionicons": "^5.0.1",
     "jquery": "^3.5.0",
